@@ -265,14 +265,79 @@ To present our take on this matter we have followed the below steps:
 
 ## Road map for future 
 
+**Improvement:**  Growth rate per job for all categories instead of single growth rate citywide 
+* Benefit- This would help the audience  analyze cities on a much realistic scale 
+
+**Improvement:** Include the tax rates and mortgage values data 
+* Benefit- This makes the visual rally interesting and applicable in the real world
+
+**Improvement:** Plot a dimensional graph salary, square feet per salary, job designation for the 3 cities 
+
+![whatsapp image 2017-12-01 at 7 36 00 pm](https://user-images.githubusercontent.com/25557540/33511406-1f75de20-d6cf-11e7-836e-09265278c461.jpeg)
+
+* Benefit- Dimensional graph and Flipping the axis,  can indulge an audience to explore more in the visualization as they can go an select their city and see what part of the graph they fall
+
+**Improvement:** Develop more actionable insights from new data to integrated with this visual 
+
+* Benefit- Actionable insights such as growth of different job sectors over the years comparison of tech jobs will bolster the claim more 
+
+**Improvement:** Include data on employment rate, weather conditions, traffic data, new job opportunities, average working age, business opportunities etc.   
+
+* Benefit- These are the conditions people take into factor in choosing a place to live 
+
+**Improvement:** Include the cost for more than one adult 
+
+* Benefit- Using calculation for more than one adult can formulate a better visual which can actually help an audience as the majority of the population in the states has some form of family and  a big part of the discussion is "Will I be able to better support my family if I move to this place?"
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
  
 ## References: 
 
+**Rent or buy a home:**
+
+* https://www.zillow.com/research/data/#rental-data
+* https://public.tableau.com/profile/guillevin#!/vizhome/IRONVIZ-TheHousingMarketRollercoaster/THEHOUSINGMARKETROLLERCOASTER
+* https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html
+* https://public.tableau.com/en-us/s/gallery/housing-market-rollercoaster?gallery=votd
+
+**Article - Why houses are costly in CA??:**
+
+* http://www.lao.ca.gov/reports/2015/finance/housing-costs/housing-costs.aspx
+
+* http://www.lao.ca.gov/Media/infographics/californias-high-housing-costs/californias-high-housing-costs.png
+
+
+**EMPLOYMENT INFORMATION:**
+
+* https://www.bls.gov/regions/new-york-new-jersey/data/xg-tables/ro2xgcesnyc.htm
+
+* https://www.bls.gov/regions/new-york-new-jersey/new_york.htm
+
+**Rent information for Various Cities in US (Both for 1 and 2 bedroom aptartments):**
+
+* https://www.zumper.com/blog/2016/04/zumper-national-rent-report-april-2016/
+
+
+**Quarterly report of Employment and wages - Labour Department:**
+
+* https://data.bls.gov/cew/apps/table_maker/v4/table_maker.htm#type=14&year=2016&size=0,1,2,3,4,5,6,7,8,9&hlind=10&supp=1
+* https://data.bls.gov/timeseries/LASST060000000000003?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+* https://data.bls.gov/timeseries/LASST360000000000003?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+
+**New York City Salary Info:**
+
+* https://labor.ny.gov/stats/lswage2.asp
+
+**Austin County Wages Info:**
+
+* http://livingwage.mit.edu/counties/48015
+
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
+
+
+
 
 
