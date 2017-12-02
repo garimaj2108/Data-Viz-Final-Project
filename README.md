@@ -377,7 +377,8 @@ https://occupytheory.org/list-of-pros-and-cons-of-living-in-san-francisco/
 
 - Our thought process:
 
-![img_0063](https://user-images.githubusercontent.com/25557540/33512561-9ecb2d0c-d6e7-11e7-8f76-1f81dc8fb013.jpeg)
+![img_0065](https://user-images.githubusercontent.com/25557540/33512826-4df51f9c-d6eb-11e7-83d8-616b265ac306.jpeg)
+
 
 
 ******************************************************************************************************************************
