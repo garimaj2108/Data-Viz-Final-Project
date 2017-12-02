@@ -255,6 +255,21 @@ To present our take on this matter we have followed the below steps:
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
+## Conclusion
+
+The actionable insight that can be inferred from the data product visualization is that the huge difference between San Francisco and Austin salaries does not necessarily translate into more luxury or space in San Francisco. When we compare and contrast, it can be seen that Austin has more to offer.
+In San Francisco more money does not translate into better lifestyle because the expenses are way more than Austin and one  pays the price of higher cost of living to be in the heart of Silicon Valley.
+
+Austin is best because of the following reasons:
+- Lower Price to Rent ratio
+- Affordable housing
+- High growth rate ratio for a city
+- Reasonable cost of living
+- Austin home purchase prices are extremely low when compared with San Francisco and New York
+
+Thus we conclude that Austin is the best city to buy homes in comparison to San Francisco and New York.
+******************************************************************************************************************************
+******************************************************************************************************************************
 
 ## Road map for future 
 
@@ -343,7 +358,6 @@ https://occupytheory.org/list-of-pros-and-cons-of-living-in-san-francisco/
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
-
 
 
 
