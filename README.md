@@ -11,10 +11,15 @@
 ## Key Deliverables
 
   #### Data Visualization Link
+  https://public.tableau.com/profile/nandini6420#!/vizhome/Final_Project1_0/Story1?publish=yes
 
   #### Data Sources
 
   Reference Links for Data: 
+  
+  https://www.zillow.com/research/data/#rental-data
+  
+  http://livingwage.mit.edu/counties/48015
   
   #### Video Link :movie_camera:
   
@@ -128,6 +133,9 @@ The premise in our storyboard is simple:
 
 The information gleaned from these visualizations will enable home buyers to make an informed decision about which city would be a suitable abode for them.
 
+<img width="800" alt="intermediate2" src="https://github.com/nrajeswaran/Data-Viz-Final-Project/blob/master/story-1.png">
+<img width="800" alt="intermediate2" src="https://github.com/nrajeswaran/Data-Viz-Final-Project/blob/master/story_2.png">
+<img width="800" alt="intermediate2" src="https://github.com/nrajeswaran/Data-Viz-Final-Project/blob/master/story_3.png">
 
 Read more: Buying A Home: Choosing Your Location https://www.investopedia.com/university/home/home1.asp#ixzz503znTUe5 
 Follow us: Investopedia on Facebook
@@ -170,7 +178,7 @@ To present our take on this matter, we have followed the below steps:
 
 **Visualization 1:** 
 
-<img width="389" alt="screen shot 2017-12-01 at 8 49 03 pm" src="https://user-images.githubusercontent.com/25557540/33511882-3dba5dde-d6d9-11e7-8780-9ee7cdf165a2.png">
+<img width="389" alt="screen shot 2017-12-01 at 8 49 03 pm" src="https://github.com/nrajeswaran/Data-Viz-Final-Project/blob/master/Viz1.png">
 
 **What's good about this Visualization:**
 
@@ -188,7 +196,7 @@ To present our take on this matter, we have followed the below steps:
 
 **Visualization 2:** 
 
-![sheet 5](https://user-images.githubusercontent.com/25557540/33506781-226a4658-d6a6-11e7-9dfa-6252c7270d61.png)
+<img width="389" alt="screen shot 2017-12-01 at 8 49 03 pm" src="https://github.com/nrajeswaran/Data-Viz-Final-Project/blob/master/viz3.png">
 
 
 **What's good about this Visualization:**
