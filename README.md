@@ -262,19 +262,19 @@ To present our take on this matter we have followed the below steps:
 * Benefit- This would help the audience analyze cities on a much realistic scale 
 
 **Improvement:** Include the tax rates and mortgage values data 
-* Benefit- This makes the visual rally interesting and applicable in the real world
+* Benefit- This makes the visual really interesting and applicable in the real world
 
 **Improvement:** Plot a dimensional graph salary, square feet per salary, job designation for the 3 cities 
 
 ![whatsapp image 2017-12-01 at 7 36 00 pm](https://user-images.githubusercontent.com/25557540/33511406-1f75de20-d6cf-11e7-836e-09265278c461.jpeg)
 
-* Benefit- Dimensional graph and Flipping the axis,  can indulge an audience to explore more in the visualization as they can go an select their city and see what part of the graph they fall
+* Benefit- Quadrant chart and Flipping the axis can indulge the audience to explore more in the visualization as they can go and select their city and see what part of the graph they fall in
 
 **Improvement:** Develop more actionable insights from new data to integrated with this visual 
 
 * Benefit- Actionable insights such as growth of different job sectors over the years comparison of tech jobs will bolster the claim more 
 
-**Improvement:** Include data on employment rate, weather conditions, traffic data, new job opportunities, average working age, business opportunities etc.   
+**Improvement:** Include data on employment rate, weather conditions, traffic data, new job opportunities, average working age, business opportunities and also all the major cities in US to give audience better and wide comparison.   
 
 * Benefit- These are the conditions people take into factor in choosing a place to live 
 
