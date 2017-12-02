@@ -129,9 +129,6 @@ The premise in our storyboard is simple:
 The information gleaned from these visualizations will enable home buyers to make an informed decision about which city would be a suitable abode for them.
 
 
-Read more: Buying A Home: Choosing Your Location https://www.investopedia.com/university/home/home1.asp#ixzz503znTUe5 
-Follow us: Investopedia on Facebook
-(Write up intercepts from: http://lawcenter.giffords.org/scorecard/)
 
 ******************************************************************************************************************************
 
@@ -156,6 +153,7 @@ To present our take on this matter, we have followed the below steps:
 - In the second viz, we compared the price to rent ratio of each city against the national average to add a layer of depth on the friendliness of the buyer's market
 - Next we wanted to add more parameters that would help our claim shine through, so we decided to map the sq ft area of different households to the total home purchase price
 - This metric helped us determine that to afford a single household in SF requires to pay more than double the value of the households in Austin and New York
+- Though New York is not as expensive as San Francisco, it is costlier than Austin and hence Austin shines through as a clear winner
 - Next we decided to compare the annual salary pay against the sq ft
 - This allowed us to determine the sq ft a person can buy with the given annual salary
 
