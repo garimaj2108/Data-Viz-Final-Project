@@ -170,7 +170,7 @@ To present our take on this matter we have followed the below steps:
 
 **Visual 1:** 
 
-![sheet 4](https://user-images.githubusercontent.com/25557540/33503214-c2ebadce-d697-11e7-82b6-270fed413f52.png)
+<img width="389" alt="screen shot 2017-12-01 at 8 49 03 pm" src="https://user-images.githubusercontent.com/25557540/33511882-3dba5dde-d6d9-11e7-8780-9ee7cdf165a2.png">
 
 **What's good about this Visual:**
 
