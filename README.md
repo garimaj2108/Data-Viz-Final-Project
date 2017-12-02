@@ -345,6 +345,8 @@ https://ww2.kqed.org/pop/2013/09/18/sf-vs-ny-which-is-better-really/
 
 http://austin.blog.statesman.com/2017/02/07/austin-named-best-place-to-live-in-america-by-u-s-news-and-world-report/
 
+**SF vs Austin**
+http://www.careerglider.com/blog/austin-vs-sf-austin-better-spot-career/
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
