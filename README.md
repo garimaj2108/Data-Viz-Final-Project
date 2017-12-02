@@ -333,6 +333,15 @@ To present our take on this matter we have followed the below steps:
 
 * http://livingwage.mit.edu/counties/48015
 
+**Austin vs SF Blog**
+http://www.careerglider.com/blog/austin-vs-sf-austin-better-spot-career/
+
+**SF vs NY**
+https://ww2.kqed.org/pop/2013/09/18/sf-vs-ny-which-is-better-really/
+
+**Why is Austin is better?**
+http://austin.blog.statesman.com/2017/02/07/austin-named-best-place-to-live-in-america-by-u-s-news-and-world-report/
+
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
