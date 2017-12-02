@@ -9,7 +9,7 @@
 ************************************************************************************************************************************************************************************************************************************************************
 
 ## Key Deliverables
-
+  #### Date: Dec 01, 2017
   #### Data Visualization Link
   https://public.tableau.com/profile/nandini6420#!/vizhome/Final_Project1_0/Story1?publish=yes
 
@@ -133,7 +133,7 @@ The premise in our storyboard is simple:
 
 The information gleaned from these visualizations will enable home buyers to make an informed decision about which city would be a suitable abode for them.
 
-<img width="800" alt="intermediate2" src="https://github.com/nrajeswaran/Data-Viz-Final-Project/blob/master/story-1.png">
+<img width="800" alt="intermediate2" src="https://github.com/nrajeswaran/Data-Viz-Final-Project/blob/master/SStory1.png">
 <img width="800" alt="intermediate2" src="https://github.com/nrajeswaran/Data-Viz-Final-Project/blob/master/story_2.png">
 <img width="800" alt="intermediate2" src="https://github.com/nrajeswaran/Data-Viz-Final-Project/blob/master/story_3.png">
 
