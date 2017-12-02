@@ -366,7 +366,7 @@ https://occupytheory.org/list-of-pros-and-cons-of-living-in-san-francisco/
 ## Lessons Learned
 
 * The project helped us understand the complexity of integrating data from various sources and its implications
-* Apart from analyzing just the data, researching about the project can help a lot to understand
+* Apart from analyzing the data, researching about the project helped us to have a better understanding of the data
 * Strictly adhering to time lines, one cannot spend too much on one part and too less on another, every aspect of finding the data, to cleaning, visualizing and documentation are integral parts of the project
 * Working with a team brings diverse thinking and open minds to new possibilities 
 
