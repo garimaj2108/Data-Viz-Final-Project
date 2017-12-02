@@ -139,6 +139,8 @@ Follow us: Investopedia on Facebook
 To Buy or Where to buy is such a huge dilemma for every potential home buyer and living in San Francisco does not make it any easier. So to decide whether San Francisco is the place to be or should one move to any other iconic or upcoming cities.
 
 To present our take on this matter, we have followed the below steps:
+- Our thought process:
+![img_0063](https://user-images.githubusercontent.com/25557540/33512561-9ecb2d0c-d6e7-11e7-8f76-1f81dc8fb013.jpeg)
 - Initially we started with a web search for datasets on home and rental prices
 - After analyzing the data we realized the scope is too broad and we decided to narrow it
 - After narrowing the scope and re-analyzing the dataset we narrowed our focus to couple of parameters which would best be able to support our claim
