@@ -33,26 +33,25 @@
 ## Project Outline 
 
 
-In this project, we are comparing three great cities San Francisco, New York and Austin which have burgeoning job opportunities, great art culture, excellent food and nightlife. But which city from these provides not only the great perks mentioned above but affordable housing as well. Of course, we took on this project with vested interests, everyone who lives in San Francisco justifies the insane cost of living and housing against the perks of being in a city which is the hub for job opportunities and such a diverse culture that everyone here feels welcomed. But we wanted to determine "Is it really worth living in San Francisco or is there a better city out there which provides all the perks of living in SF."
+In this project, we are comparing three great cities, San Francisco, New York and Austin which have burgeoning job opportunities, great art culture, excellent food and nightlife. But which city from these provides not only the great perks mentioned above, but affordable housing as well. Of course, we took on this project with vested interests, everyone who lives in San Francisco justifies the insane cost of living and housing against the perks of being in a city which is the hub for job opportunities and such a diverse culture that everyone here feels welcomed. But we wanted to determine "Is it really worth living in San Francisco or is there a better city out there which provides all the perks of living in SF".
 
 ************************************************************************************************************************************************************************************************************************************************************
 
 ## Project Motivation - Why we chose this topic ?
 
-Buying a home has always been a sign of growing up and living the American dream, on a more practical note, its about creating an investment that one can bank on in bad times. But the rising cost of housing in San Francisco has made it difficult for Millenials to purchase homes. The current average prices of homes in San Francisco are approximately $850,000.
+Buying a home has always been a sign of growing up and living the American dream, on a more practical note, it's about creating an investment that one can bank on in bad times. But the rising cost of housing in San Francisco has made it difficult for Millenials to purchase homes. The current average prices of homes in San Francisco are approximately $850,000.
 
 With purchase prices hitting the roof, we decided to determine which city is best to live in by comparing the shining bastion of the west, 'San Francisco' against concrete jungle where dreams are made, 'New York' and the upcoming wannabe San Francisco, 'Austin'. 
 
 Why did we decide to compare San Francisco, New York and Austin?
 Some of the key features that people look while purchasing homes are covered by these 3 iconic cities and hence we decided to compare and contrast them to derive insights to support our claim. 
 
-- SF, NY and Austin offer plethora of job opportunities ranging from Arts to Tech
+- SF, NY and Austin offer a plethora of job opportunities ranging from Arts to Tech
 - The all have great food, nightlife and theatre scene
 - They embrace diversity
 
 
-We wanted to determine if there is a city that will be a close match to San Francisco (no two cities can be the same), hence 
-for this assignment, we have used the following datasets to derive insightful metrics for our final claim "Which city is better for buying a Home?" 
+We wanted to determine if there is a city that will be a close match in San Francisco (no two cities can be the same), hence For this assignment, we have used the following datasets to derive insightful metrics for our final claim "Which city is better for buying a Home?"
 
 * The datasets for these cities include:
 * Average Home purchase price for last 8 years
@@ -69,13 +68,13 @@ San Francisco is one of the fastest growing cities in America, with citizens flo
 
 ## Audience Needs
 
-Buying home is one of the most expensive purchases that an individual makes and living in a city like San Francisco does not make the decision an easy one. The audience wants a housing affordability comparitive analysis between popular cities having a similar background so that they can determine what does San Francisco bring to the plate that other cities don't or vice versa so that they can make informed choices about investing in home purchases.
+Buying home is one of the most expensive purchases that an individual makes and living in a city like San Francisco does not make the decision an easy one. The audience wants a housing affordability comparative analysis between popular cities having a similar background so that they can determine what does San Francisco bring to the plate that other cities don't or vice versa so that they can make informed choices about investing in home purchases.
 
 ******************************************************************************************************************************
 
 ## Audience Wants
 
-San Francisco residents would ideally want to live here, but with a solution to the housing crisis. Currently, there is a huge demand to supply gap in the housing market and the prices are sky high. This wishlist is not that difficult to achieve if the government focuses on missioning more housing construction and provide tax reliefs to companies to move to lesser popular locations for a more even spread out of the population and which will also result in lower purchase prices and increased home inventory.
+San Francisco residents would ideally want to live here, but with a solution to the housing crisis. Currently, there is a huge demand, supply gap in the housing market and the prices are sky high. This wishlist is not that difficult to achieve if the government focuses on missing more housing construction and provide tax reliefs to companies to move to lesser popular locations for a more even spread out of the population and which will also result in lower purchase prices and increased home inventory.
 
 ******************************************************************************************************************************
 
@@ -105,29 +104,29 @@ This metric determines the percent increase or decrease in the home purchase pri
 This metric compares the price to rent ratio for all the 3 cities against the National average.
 P.S: The price to rent ratio closer to the national average indicates a buyer-friendly market
 
-#### - Sq ft purchase capacity vs salaries based on occupational areas
-This indicates the sq ft. buying capacity of individuals in particular occupational areas based on their salaries for all 3 cities
+#### - Sq. ft. purchase capacity vs salaries based on occupational areas
+This indicates the sq ft., buying capacity of individuals in particular occupational areas based on their salaries for all 3 cities
 
 
 ************************************************************************************************************************************************************************************************************************************************************
 
 ## Claim - Austin is the better city to buy a home as compared to San Francisco and New York!!
 
-San Francisco is one of the fastest growing cities in America, with citizens flocking in from far and wide while New York is an iconic city with both dreamers and realists flocking to it and Austin is considered to be San Francisco in making. So which city should you choose to call Home?
+San Francisco is one of the fastest growing cities in America, with citizens flocking in from far and wide while New York is an iconic city with both dreamers and realists flocking to it and Austin is considered to be San Francisco in the making. So which city should you choose to call Home? 
 
 When deciding to buy a home, there are so many factors that one has to consider such as:
-- job opportunities
-- average salaries
-- average home purchase prices
-- ones own personal buying capacity
+- Job opportunities
+- Average salaries
+- Average home purchase prices
+- Ones own personal buying capacity
 
 The premise in our storyboard is simple:
-- It is comparing citywise average salaries of individuals in different job profiles and their sq ft buying capacity in that particular city
+- It is comparing citywide average salaries of individuals in different job profiles and their sq ft buying capacity in that particular city 
 - It is also comparing the home purchase price increase trend for the last 8 years, to provide an insight of what is the price growth rate in each city to determine the affordability
-- To dig deep on the growth rate we are presenting the increase or decrease in percentage of the average home prices. 
-- It is also comparing the price to rent ratio across the 3 cities, which provides details about how friendly is the buyer market
+- To dig deep on the growth rate we are presenting the increase or decrease in percentage of the average home price. 
+- It is also comparing the price to rent ratio across the 3 cities, which provides details about how friendly is the buyer's market
 
-The information gleaned from these visualizations will enable home buyers to make a informed decision about which city would be a suitable abode for them.
+The information gleaned from these visualizations will enable home buyers to make an informed decision about which city would be a suitable abode for them.
 
 
 Read more: Buying A Home: Choosing Your Location https://www.investopedia.com/university/home/home1.asp#ixzz503znTUe5 
@@ -139,25 +138,25 @@ Follow us: Investopedia on Facebook
 ## How we went about creating the visualizations
 To Buy or Where to buy is such a huge dilemma for every potential home buyer and living in San Francisco does not make it any easier. So to decide whether San Francisco is the place to be or should one move to any other iconic or upcoming cities.
 
-To present our take on this matter we have followed the below steps:
-- Initially we started with web search for datasets on home and rental prices
+To present our take on this matter, we have followed the below steps:
+- Initially we started with a web search for datasets on home and rental prices
 - After analyzing the data we realized the scope is too broad and we decided to narrow it
 - After narrowing the scope and re-analyzing the dataset we narrowed our focus to couple of parameters which would best be able to support our claim
 - Then we started to create visualizations, which helped us to analyze and understand the behavior of the real estate market in these cities
-- First we created the home purchase price trend chart, which helped us analyze the absolute price growth in SF, NY and Austin
-- From the first visualization, we were able to determine that San Francisco behaves extremely difefrent from New York and Austin as the home value increases exponentially from the year 2012 onwards.
-- Second we created Price to Rent ratio, this ratio is determined by dividing home price to rent price, which depicts the fact that if the ratio is low then it is a buyer friendly market
-- Third we created a Salary to Expense ratio and mapped it against occupational areas for each city
+- First, we created the home purchase price trend chart, which helped us analyze the absolute price growth in SF, NY and Austin
+- From the first visualization, we were able to determine that San Francisco behaves extremely different from New York and Austin as the home value increases exponentially from the year 2012 onwards. 
+- Second, we created Price to Rent ratio, this ratio is determined by dividing the home price to rent, price, which depicts the fact that if the ratio is low then it is a buyer friendly market 
+- Third, we created a Salary to Expense ratio and mapped it against occupational areas for each city
 - But we decided to discard this visualization because the salary to expense ratio had very little difference in their values across the cities
 - The main reason for this was because even though people were earning more say in SF they were spending more too
 - Hence this visualization was not providing an insight to clearly determine a claim
 - Because this metric wasn't providing valid compare and contrast, we decided to include the city future growth rate and use this visualization as a warrant
 - After revisiting the first two visualizations, in the first viz we realized that we needed to also show year on year percentage difference in the growth rate to determine the home purchase price growth rate trend compared to the past years
-- In the second viz, we compared the price to rent ratio of each city against the national average to add a layer of depth on the friendliness of the buyer market
+- In the second viz, we compared the price to rent ratio of each city against the national average to add a layer of depth on the friendliness of the buyer's market
 - Next we wanted to add more parameters that would help our claim shine through, so we decided to map the sq ft area of different households to the total home purchase price
 - This metric helped us determine that to afford a single household in SF requires to pay more than double the value of the households in Austin and New York
 - Next we decided to compare the annual salary pay against the sq ft
-- This allowed us to determine the sq ft a person acan buy with the given annual salary
+- This allowed us to determine the sq ft a person can buy with the given annual salary
 
 #### After analyzing all these metrics in the visualization on a storyboard, we came to the conclusion that "Austin is the better city to buy a home as compared to San Francisco and New York!!"
 
@@ -194,10 +193,10 @@ To present our take on this matter we have followed the below steps:
 
 **What's good about this Visualization:**
 
-* The visual represents price to rent ratio for the 3 cities in question and as we can see Price to rent ratio is the lowest for Austin 
+* The visual represents the price to rent ratio for the 3 cities in question and as we can see Price to rent ratio is the lowest for Austin 
 * The Price to rent ratio metric is an important metric to answer if it's feasible to buy a house 
-* Lower the Price to rent ratio the better is the buyer market
-* The visual supports the  claim mentioned in title and helps an audience to come to an understanding that it's better to rent than buy homes in cities where the ratio is high 
+* Lower the Price to rent ratio the better is the buyer's market
+* The visual supports the claim mentioned in the title and helps an audience to come to an understanding that it's better to rent than buy homes in cities where the ratio is high
 
 
 **What's bad about this Visual:**
@@ -214,15 +213,15 @@ To present our take on this matter we have followed the below steps:
 
 **What's good about this Visualization:**
 
-* This visualization compares the salary of different job profiles against the area in sq ft., It helps in determining the sq ft. one can buy based on the job profiles and salaries across all the three cities
+* This visualization compares the salary of different job profiles against the area in sq ft., It helps in determining the sq. ft. one can buy based on the job profiles and salaries across all the three cities
 *  The visual has dual axis to better represent the data to viz ratio as it gives more information in a single visual
 *  The dots show salaries in different cities and the amount of area in sq ft a person working in that job category can buy 
 
 **What's bad about this Visual:**
 
 * Having dual axis in a visual can be confusing and misleading
-* The Audience will have to manually compare the salary and sq ft. area to comprehend the differences across the 3 cities
-* The audience prefer direct comparison of SF premium with other two cities in order to understand the difference
+* The Audience will have to manually compare the salary and sq. ft. area to comprehend the differences across the 3 cities
+* The audience prefer a direct comparison of SF premium with other two cities in order to understand the difference
 ******************************************************************************************************************************
 
 **Visualization 4:** 
@@ -236,7 +235,7 @@ To present our take on this matter we have followed the below steps:
 
 **What's bad about this Visual:**
 
-* The axes do not make sense, it should be inverted to better represents the findings 
+* The axes do not make sense, it should be inverted to better represent the findings
 
 ******************************************************************************************************************************
 
@@ -251,7 +250,7 @@ To present our take on this matter we have followed the below steps:
 
 **What's bad about this Visual:**
 
-* This visualization would add more value if growth rate per job category is included in the metric rather than growth rate per city
+* This visualization would add more value if the growth rate per job category is included in the metric rather than the growth rate per city
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
@@ -264,7 +263,7 @@ To present our take on this matter we have followed the below steps:
 **Improvement:** Include the tax rates and mortgage values data 
 * Benefit- This makes the visual really interesting and applicable in the real world
 
-**Improvement:** Plot a quadrant graph for salary vs area in sq ft. for all job categories in the 3 cities 
+**Improvement:** Plot a quadrant graph for salary vs area in sq ft., for all job categories in the 3 cities 
 ![whatsapp image 2017-12-01 at 7 36 00 pm](https://user-images.githubusercontent.com/25557540/33511406-1f75de20-d6cf-11e7-836e-09265278c461.jpeg)
 
 * Benefit- Quadrant chart and Flipping the axis can allow the audience to explore more in the visualization as they can go and select their city and see what part of the graph they fall in
@@ -273,13 +272,13 @@ To present our take on this matter we have followed the below steps:
 
 * Benefit- Actionable insights such as comparison of growth of different job sectors(eg: Tech) over the years will bolster the claim more 
 
-**Improvement:** Include data on employment rate, weather conditions, traffic data, new job opportunities, average working age, business opportunities and also all the major cities in US to give audience better and wide comparison.   
+**Improvement:** Include data on employment rate, weather conditions, traffic data, new job opportunities, average working age, business opportunities and also all the major cities in the US to give audience better and wide comparison. 
 
 * Benefit- These are the conditions people take into consideration in choosing a place to live 
 
 **Improvement:** Include the cost for more than one adult 
 
-* Benefit- Using calculation for more than one adult can provide a better comparison to the audience as a large part of the the population have families and the bigger picture is "Will I be able to better support my family if I move to this place?"
+* Benefit- Using a calculation for more than one adult can provide a better comparison to the audience as a large part of  the population have families and the bigger picture is "Will I be able to better support my family if I move to this place?"
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
