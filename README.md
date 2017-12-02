@@ -59,12 +59,13 @@ for this assignment, we have used the following datasets to derive insightful me
 * Citywise Occupation Area and their salaries
 * Citywise Per sq ft prices for Home purchase
 
-(Write up excerpts from: )
 
 ************************************************************************************************************************************************************************************************************************************************************
 ## Audience's existing mindset
 
 San Francisco is one of the fastest growing cities in America, with citizens flocking in from far and wide. Those who live there constantly tout its virtues to their friends in an effort to make them jealous and it is no secret that San Francisco is one of America’s most vital cultural hubs. With so much to see and do, there is very little reason not to move to “The City”, right?
+
+(Write up excerpts taken from: https://occupytheory.org/list-of-pros-and-cons-of-living-in-san-francisco/)
 
 ## Audience Needs
 
@@ -166,99 +167,91 @@ To present our take on this matter we have followed the below steps:
 
 ## Visualization in the making
 
-## Intermediate Visualization:
+#### Intermediate Visualization:
 
-**Visual 1:** 
+**Visualization 1:** 
 
 <img width="389" alt="screen shot 2017-12-01 at 8 49 03 pm" src="https://user-images.githubusercontent.com/25557540/33511882-3dba5dde-d6d9-11e7-8780-9ee7cdf165a2.png">
 
-**What's good about this Visual:**
+**What's good about this Visualization:**
 
-* This visual represents average median price for buying a house in the three cities 
+* This visual represents average home purchase prices across the three cities 
 * From the visual, it's clear that living in San Fransico is a luxury that not all people can afford and in Austin, you can buy a good property for a cheap price
 * New York, on the other hand, is between the two cities 
 
-**What's bad about this Visual:**
+**What's bad about this Visualization:**
 
 * Firstly, the visual is confusing because it has the same colours for the three cities
-* Secondly, the visual metric average housing price vs cities isn't enough evidence to bolster the claim
-* Thirdly, this visual is incomplete without other metrics such as the expense, salary, job growth etc
+* Secondly, the visual by itself isn't enough evidence to bolster the claim
 
 
 ******************************************************************************************************************************
 
-**Visual 2:** 
+**Visualization 2:** 
 
 ![sheet 5](https://user-images.githubusercontent.com/25557540/33506781-226a4658-d6a6-11e7-9dfa-6252c7270d61.png)
 
 
-**What's good about this Visual:**
+**What's good about this Visualization:**
 
-* The visual represents price to rent ratio for the 3 cities in question and as we can see Price to rent ratio is almost the same for New York and San Francisco and very low for Austin 
+* The visual represents price to rent ratio for the 3 cities in question and as we can see Price to rent ratio is the lowest for Austin 
 * The Price to rent ratio metric is an important metric to answer if it's feasible to buy a house 
-* Lower the Price to rent ratio the better it is to buy a house ra bther than rent
+* Lower the Price to rent ratio the better is the buyer market
 * The visual supports the  claim mentioned in title and helps an audience to come to an understanding that it's better to rent than buy homes in cities where the ratio is high 
 
 
 **What's bad about this Visual:**
 
-* How do we compare this Visual  on a national scale 
-* The audience cannot compare and contrast anything from this visual as it just shows staright out  statistics
+* This visualization does not offer any contrast as the national price to rent ratio hasn't been included in the viz 
 
 
 ******************************************************************************************************************************
 
-**Visual 3:** 
+**Visualization 3:** 
 
 
 ![intermediate](https://user-images.githubusercontent.com/25557540/33509372-d5e6fd84-d6b5-11e7-9684-b880eca18ee7.png)
 
-**What's good about this Visual:**
+**What's good about this Visualization:**
 
-* The visual is between the square feet a job category can buy vs the salary he/she gets in all the three states, which looks intriguing 
-*  The visual has double axis to better represent the data vs viz ratio as it gives more information in a single visual
-*  The dots show a job category in different cities, their  salary and the amount of land a person working in that job category can buy 
+* This visualization compares the salary of different job profiles against the area in sq ft., It helps in determining the sq ft. one can buy based on the job profiles and salaries across all the three cities
+*  The visual has dual axis to better represent the data to viz ratio as it gives more information in a single visual
+*  The dots show salaries in different cities and the amount of area in sq ft a person working in that job category can buy 
 
 **What's bad about this Visual:**
 
-* Having dual   axis in a visual can be confusing and misleading
-* the Audience has to actually look at visual properly to match the salary with the square feet they can buy 
-* An audience would also like to compare and contrast the SF premium which is what is hyped today 
-
+* Having dual axis in a visual can be confusing and misleading
+* The Audience will have to manually compare the salary and sq ft. area to comprehend the differences across the 3 cities
+* The audience prefer direct comparison of SF premium with other two cities in order to understand the difference
 ******************************************************************************************************************************
 
-**Visual 4:** 
+**Visualization 4:** 
 <img width="800" alt="intermediate2" src="https://user-images.githubusercontent.com/25557540/33509375-dc32f03a-d6b5-11e7-93a3-f9f69e8c3da5.png">
 
 **What's good about this Visual:**
 
-* This visual is telling an audience what amount they need to earn to buy x amount of square feet in the three states 
-* The visual shows a clear trend making the  claim strong that buying a property in SF with all the expenses that come with it is not worth it.
-* This intermediate visual, if integrated with other visual, could be used to make an interactive and persuasive visual
+* This visual provides insight into the amount the audience needs to pay to purchase 'X' amount of sq ft. in the three cities 
+* The visual shows a clear trend making the claim strong that buying a property in SF with all the expenses that come with it is not worth it.
 
 
 **What's bad about this Visual:**
 
-* The axis doesn't make sense, it should be inverted to better represents the findings 
-* The zero axis doesn't make sense here as well
+* The axes do not make sense, it should be inverted to better represents the findings 
 
 ******************************************************************************************************************************
 
-**Visual 5:** 
+**Visualization 5:** 
 <img width="800" alt="growth_rate" src="https://user-images.githubusercontent.com/25557540/33510559-32b66c32-d6c2-11e7-8319-fcb1b3db1f60.png">
-
 
 
 **What's good about this Visual:**
 
-* This visual shows the growth rate for the three cities as how they changed over time 
-* The city Austin shows a promising trend as it continuse to grow whereas the new york and san franscio are becoming stagnant 
-* This visual is made with respect to data vs pixel ratio
+* This visual shows the growth rate per city combined with salary to expense ratio
+* Austin shows a promising trend as it continues to grow at a higher rate as compared to New York and San Francisco 
 
 **What's bad about this Visual:**
 
-* The reason this is not an important metric is beacuse the growth rate is for city as whole; not different jobs categories so it does not make sense to include this 
-
+* This visualization would add more value if growth rate per job category is included in the metric rather than growth rate per city
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
@@ -266,22 +259,22 @@ To present our take on this matter we have followed the below steps:
 ## Road map for future 
 
 **Improvement:**  Growth rate per job for all categories instead of single growth rate citywide 
-* Benefit- This would help the audience  analyze cities on a much realistic scale 
+* Benefit- This would help the audience analyze cities on a much realistic scale 
 
 **Improvement:** Include the tax rates and mortgage values data 
-* Benefit- This makes the visual rally interesting and applicable in the real world
+* Benefit- This makes the visual really interesting and applicable in the real world
 
 **Improvement:** Plot a dimensional graph salary, square feet per salary, job designation for the 3 cities 
 
 ![whatsapp image 2017-12-01 at 7 36 00 pm](https://user-images.githubusercontent.com/25557540/33511406-1f75de20-d6cf-11e7-836e-09265278c461.jpeg)
 
-* Benefit- Dimensional graph and Flipping the axis,  can indulge an audience to explore more in the visualization as they can go an select their city and see what part of the graph they fall
+* Benefit- Quadrant chart and Flipping the axis can indulge the audience to explore more in the visualization as they can go and select their city and see what part of the graph they fall in
 
 **Improvement:** Develop more actionable insights from new data to integrated with this visual 
 
 * Benefit- Actionable insights such as growth of different job sectors over the years comparison of tech jobs will bolster the claim more 
 
-**Improvement:** Include data on employment rate, weather conditions, traffic data, new job opportunities, average working age, business opportunities etc.   
+**Improvement:** Include data on employment rate, weather conditions, traffic data, new job opportunities, average working age, business opportunities and also all the major cities in US to give audience better and wide comparison.   
 
 * Benefit- These are the conditions people take into factor in choosing a place to live 
 
@@ -345,8 +338,9 @@ https://ww2.kqed.org/pop/2013/09/18/sf-vs-ny-which-is-better-really/
 
 http://austin.blog.statesman.com/2017/02/07/austin-named-best-place-to-live-in-america-by-u-s-news-and-world-report/
 
-**SF vs Austin**
-http://www.careerglider.com/blog/austin-vs-sf-austin-better-spot-career/
+**Pros and Cons of SF**
+https://occupytheory.org/list-of-pros-and-cons-of-living-in-san-francisco/
+
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
