@@ -104,6 +104,12 @@ San Francisco residents would ideally want to live here, but with a solution to 
 #### Why these metrics?
 These metrics will allow us to compare and contrast home purchase prices across San Francisco, New York and Austin and also allow us to compare affordability of an individual based on their salaries with respect to how much sq ft of property they will be able to purchase in the aforementioned cities.
 
+P.S: What is affordbility?
+- Affordability is an individual's home purchase capacity based on the salary
+For eg: How much sq ft. will a person be able afford in the salary he/she earns based on their job profiles in the 3 cities
+- This will give them an insight into their potential home buying capacity based on the size of the home
+For eg: If a person is looking to buy a one household home, which city will allow the person to buy more sq ft
+
 #### Metrics:
 #### - Home purchase price based on absolute values for last 8 years 
 This metric provides insight into the upward trend of home purchase prices 
