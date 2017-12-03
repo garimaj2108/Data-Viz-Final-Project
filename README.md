@@ -386,7 +386,7 @@ https://occupytheory.org/list-of-pros-and-cons-of-living-in-san-francisco/
 ******************************************************************************************************************************
 ******************************************************************************************************************************
 ## Dream Team
-[!Dream Team](/Users/garimajain/Desktop/DreamTeam.jpeg)
+[!Dream Team](https://github.com/garimaj2108/Data-Viz-Final-Project/DreamTeam.jpeg)
 
 
 ## Appendix
