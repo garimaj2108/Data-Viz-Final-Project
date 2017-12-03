@@ -79,7 +79,7 @@ San Francisco is one of the fastest growing cities in America, with citizens flo
 
 ## Audience Needs
 
-Buying home is one of the most expensive purchases that an individual makes and living in a city like San Francisco does not make the decision an easy one. The audience wants a housing affordability comparative analysis between popular cities having a similar background so that they can determine what does San Francisco bring to the plate that other cities don't or vice versa so that they can make informed choices about investing in home purchases.
+Buying home is one of the most expensive purchases that an individual makes and living in a city like San Francisco does not make the decision an easy one. The audience wants a housing affordability **comparative analysis** between popular cities having a similar background so that they can determine what does San Francisco bring to the plate that other cities don't or vice versa so that they can make informed choices about investing in home purchases.
 
 ******************************************************************************************************************************
 
@@ -102,7 +102,7 @@ San Francisco residents would ideally want to live here, but with a solution to 
 #### The goal of these metrics is to provide insights into home affordability across the selected cities
 
 #### Why these metrics?
-These metrics will allow us to compare and contrast home purchase prices across San Francisco, New York and Austin and also allow us to compare ####affordability#### of an individual based on their salaries with respect to how much sq ft of property they will be able to purchase in the aforementioned cities.
+These metrics will allow us to compare and contrast home purchase prices across San Francisco, New York and Austin and also allow us to compare **affordability** of an individual based on their salaries with respect to how much sq ft of property they will be able to purchase in the aforementioned cities.
 
 #### What is affordability?
 - Affordability is an individual's home purchase capacity based on the salary
@@ -168,7 +168,7 @@ To present our take on this matter, we have followed the below steps:
 - But we decided to discard this visualization because the salary to expense ratio had very little difference in their values across the cities
 - The main reason for this was because even though people were earning more say in SF they were spending more too
 - Hence this visualization was not providing an insight to clearly determine a claim
-- Because this metric wasn't providing valid compare and contrast, we decided to include the city future growth rate and use this visualization as a warrant
+- Because this metric wasn't providing valid compare and contrast, we decided to include the city future growth rate and use this visualization as a **warrant**
 - After revisiting the first two visualizations, in the first viz we realized that we needed to also show year on year percentage difference in the growth rate to determine the home purchase price growth rate trend compared to the past years
 - In the second viz, we compared the price to rent ratio of each city against the national average to add a layer of depth on the friendliness of the buyer's market
 - Next we wanted to add more parameters that would help our claim shine through, so we decided to map the sq ft area of different households to the total home purchase price
@@ -275,7 +275,7 @@ To present our take on this matter, we have followed the below steps:
 ******************************************************************************************************************************
 ## Conclusion
 
-The actionable insight that can be inferred from the data product visualization is that the huge difference between San Francisco and Austin salaries does not necessarily translate into more luxury or space in San Francisco. When we compare and contrast, it can be seen that Austin has more to offer.
+The actionable insight that can be inferred from the data product visualization is that the huge difference between San Francisco and Austin salaries does not necessarily translate into more luxury or space in San Francisco. When we **compare and contrast**, it can be seen that Austin has more to offer.
 In San Francisco more money does not translate into better lifestyle because the expenses are way more than Austin and one  pays the price of higher cost of living to be in the heart of Silicon Valley.
 
 Austin is best because of the following reasons:
@@ -285,7 +285,7 @@ Austin is best because of the following reasons:
 - Reasonable cost of living
 - Austin home purchase prices are extremely low when compared with San Francisco and New York
 
-Thus we conclude that Austin is the best city to buy homes in comparison to San Francisco and New York.
+**Thus we conclude with enough 'evidence' that Austin is the best city to buy homes in comparison to San Francisco and New York.**
 ******************************************************************************************************************************
 ******************************************************************************************************************************
 
