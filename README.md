@@ -71,6 +71,12 @@ San Francisco is one of the fastest growing cities in America, with citizens flo
 
 (Write up excerpts taken from: https://occupytheory.org/list-of-pros-and-cons-of-living-in-san-francisco/)
 
+## Who is the target Audience?
+
+- Anyone looking to purchase a home in the aforementioned 3 cities
+- Anyone who is looking to relocate from another city to one of these cities 
+- Anyone from these 3 cities looking for a affordable home with similar perks of popular cities
+
 ## Audience Needs
 
 Buying home is one of the most expensive purchases that an individual makes and living in a city like San Francisco does not make the decision an easy one. The audience wants a housing affordability comparative analysis between popular cities having a similar background so that they can determine what does San Francisco bring to the plate that other cities don't or vice versa so that they can make informed choices about investing in home purchases.
