@@ -276,7 +276,9 @@ To present our take on this matter, we have followed the below steps:
 ## Conclusion
 
 The actionable insight that can be inferred from the data product visualization is that the huge difference between San Francisco and Austin salaries does not necessarily translate into more luxury or space in San Francisco. When we **compare and contrast**, it can be seen that Austin has more to offer.
-For example, a Management personnel is paid more in San Franciso than New York and Austin by USD 3180 and USD 39520 respectively but he/she can afford 550 sq ft and 700 sq ft of area in New York and Austin respectively in their given salaries. We compared the salary premium with respect to area in every city for all the job categories and the result is  almost same with little margins.
+
+For example, a Management personnel is paid more in San Franciso than New York and Austin by USD 3180 and USD 39520 respectively but he/she can afford only 250 sq ft in SF while one can afford 550 sq ft and 700 sq ft of area in New York and Austin respectively in their given salaries. We compared the salary premium with respect to area in every city for all the job categories and the result is  almost same with little margins.
+
 In San Francisco more money does not translate into better lifestyle because the expenses are way more than Austin and one  pays the price of higher cost of living to be in the heart of Silicon Valley.
 
 Austin is best because of the following reasons:
